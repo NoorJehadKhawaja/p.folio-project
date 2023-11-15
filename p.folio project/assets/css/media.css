@@ -1,0 +1,27 @@
+@media(max-width:991px){
+    .nav-item{
+        width:fit-content;
+    }
+}
+
+@media(max-width:768){
+    .about .count{
+        border: none !important;
+    }
+    .downlod-resume .brands{
+        justify-content: center !important;
+    }
+}
+
+
+@media(max-width:568){
+    .header{
+        background-position-x :-235px;
+    }
+    .header-container{
+       align-items: start !important; 
+    }
+    .header h1{
+        font-size: 45px;
+    }
+}
